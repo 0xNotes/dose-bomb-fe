@@ -1,0 +1,10 @@
+body {
+  background-color: salmon;
+}
+
+.HomeContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+}/*# sourceMappingURL=styles.css.map */
